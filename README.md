@@ -3,6 +3,7 @@
 This project focuses on predicting house prices in King County using a deep learning regression model built with TensorFlow/Keras.
 
 It covers the complete machine learning workflow, including data preprocessing, feature engineering, neural network modeling, training, and evaluation. The goal is to learn the relationship between housing features and sale price, and to build an effective regression model for real estate prediction.
+
 Kaggle Notebook
 This project is also presented as a Kaggle notebook based on the King County house price prediction task.
 https://www.kaggle.com/code/shiv28/house-price-prediction-in-king-county-usa
